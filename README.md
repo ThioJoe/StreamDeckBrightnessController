@@ -1,8 +1,10 @@
 # Stream Deck Direct Brightness Controller
 
-Simple console app to control the brightness of a stream deck's screen through the command line. 
+Simple console app to control the brightness of an Elgato Stream Deck's screen through the command line. 
 
 No dependencies - built with .NET 4.8 Framework included in Windows. It doesn't continue to run, it exits itself once the command is run. By default won't show a console window when run with an argument.
+
+Note: This is mostly a personal project for my own use. Since it works for what I need, don't expect any updates or additional functionality.
 
 # How to use:
 
