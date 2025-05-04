@@ -13,3 +13,8 @@ Note: This is mostly a personal project for my own use. Since it works for what 
 
 ### Running it with a command line argument will not show a window, unless you add the `-debug` statement, such as:
 `StreamDeckBrightnessController.exe 50 -debug`
+
+
+# How to Download:
+- Go to the Releases page [here](https://github.com/ThioJoe/StreamDeckBrightnessController/releases) or click the link to it on the right of the page.
+- For the latest release, look under "Assets" and download the executable: `StreamDeckBrightnessController.exe`
